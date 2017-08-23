@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cf2299c8864afe4ab42466f546ae20d, type: 3}
+  m_Name: WorkshopItem
+  m_EditorClassIdentifier: 
+  WorkshopPublishedFileID: 1085289517
+  Title: Needy Random Number Generator
+  Description: '[i]We are now at the mercy of RNGesus.[/i]
+
+
+    Another needy module for KTaNE. Thank lumbud84 for suggesting this idea to be
+    in the game, because I had fun working on it as much as he did on writing the
+    manual for it.
+
+
+    HTML Manual: Currently in progress. When manual is ready, ths module will go completely
+    public.
+
+
+    Module ID: "[b]rng[/b]"'
+  PreviewImage: {fileID: 2800000, guid: 2908d836696200b4691944591d58c7fb, type: 3}
+  Tags:
+  - Needy Module
